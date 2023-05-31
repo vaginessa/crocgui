@@ -6,7 +6,7 @@ require (
 	fyne.io/fyne/v2 v2.2.4
 	github.com/schollz/croc/v9 v9.6.2
 	github.com/schollz/logger v1.2.0
-	golang.org/x/text v0.5.0
+	golang.org/x/text v0.7.0
 )
 
 require (
@@ -42,7 +42,7 @@ require (
 	github.com/twmb/murmur3 v1.1.6 // indirect
 	github.com/yuin/goldmark v1.4.13 // indirect
 	golang.org/x/crypto v0.3.0 // indirect
-	golang.org/x/image v0.0.0-20220601225756-64ec528b34cd // indirect
+	golang.org/x/image v0.5.0 // indirect
 	golang.org/x/mobile v0.0.0-20211207041440-4e6c2922fdee // indirect
 	golang.org/x/net v0.2.0 // indirect
 	golang.org/x/sys v0.3.0 // indirect
